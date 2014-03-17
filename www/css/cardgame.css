@@ -1,0 +1,43 @@
+﻿@CHARSET "UTF-8";
+
+body{
+	background-color: #F6EF25;
+}
+.btn {
+  border: 2px solid black;
+  width: 150px;
+  height: 150px;
+  float: left;
+  text-align: center;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 100%;
+  margin: 10px;
+  border-radius: 10px;
+  background-color: white;
+ 
+}
+
+#gameBoard {
+  
+  width: 1050px;
+  height: 800px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-left: -550px;
+  margin-top: -450px;
+
+}
+
+h1{
+	margin-top: 20px;
+	margin-bottom: 25px;
+	text-align: center;
+	font-size: 85px;
+	color: #3D210F; 
+	font-family: 'Malgun Gothic';
+	
+}
+
+
